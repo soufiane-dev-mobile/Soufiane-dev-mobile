@@ -1,45 +1,37 @@
-# 👋 Hi there, I'm Soufiane Zqaqi
+<h1 align="left">👋 Hi there, I'm Soufiane Zqaqi</h1>
 
-🎯 Mobile App Developer | Flutter Enthusiast
+###
 
----
+<p align="left">🎯 Mobile App Developer | Flutter Enthusiast</p>
 
-## 🚀 About Me
+###
 
-I'm a passionate mobile developer specializing in **Flutter**, building high-performance, cross-platform applications with clean architecture and beautiful UI.
+<h2 align="left">🚀 About Me</h2>
 
-💡 I enjoy solving problems, creating meaningful digital experiences, and constantly learning new technologies.
+###
 
----
+<p align="left">I'm a passionate mobile developer specializing in Flutter, building high-performance, cross-platform applications with clean architecture and beautiful UI.<br><br>💡 I enjoy solving problems, creating meaningful digital experiences, and constantly learning new technologies.</p>
 
-## 🛠️ Tech Stack
+###
 
--  <img width="100" height="100" alt="R" src="https://github.com/user-attachments/assets/d0ad71c9-1877-4ab8-8658-feef505c6f3a" /><img width="130" height="130" alt="image" src="https://github.com/user-attachments/assets/5cdd19c4-c36a-44b1-a9d2-b408b4e62987" /><img width="56" height="80" alt="FIRE" src="https://github.com/user-attachments/assets/69d570fd-03c9-475a-8a18-444c945c0858" />
+<h2 align="left">🛠️ Tech Stack</h2>
 
-- 🎨 UI/UX (Material Design, Animations)
-- 🧪 Testing (Unit, Widget, Integration)
-- ⚙️ Tools: Git, GitHub, VS Code, Android Studio
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 
-## 📂 Featured Projects
-
-🔹 [Project Name](https://github.com/your-username/project-name)  
-Short description of what this app does (e.g., task manager, weather app, etc.)
-
-🔹 [Another Project](https://github.com/your-username/another-project)  
-Brief description here
-
-> Feel free to explore my repositories for more!
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/soufiane-zqaqi](https://linkedin.com/in/soufiane-zqaqi)
-- 🖥️ GitHub: [github.com/soufianezqaqi](https://github.com/soufianezqaqi)
-
----
-
-⭐ Thanks for visiting my profile!
+###
