@@ -1,5 +1,5 @@
-<body style="background-color: red; color: white; font-family: sans-serif; padding: 20;">
-![fl](https://github.com/user-attachments/assets/c1d0454b-675f-4a42-8cae-8d76cdb913cd)
+
+![fl](https://github.com/user-attachments/assets/77e82d10-0552-429a-8ead-ff262b629a9d)
 
   <h1 align="left">👋 Hi there, I'm Soufiane Zqaqi</h1>
 
