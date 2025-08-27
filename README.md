@@ -14,7 +14,7 @@ I'm a passionate mobile developer specializing in **Flutter**, building high-per
 
 ## 🛠️ Tech Stack
 
--  <img width="100" height="100" alt="R" src="https://github.com/user-attachments/assets/d0ad71c9-1877-4ab8-8658-feef505c6f3a" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5cdd19c4-c36a-44b1-a9d2-b408b4e62987" />
+-  <img width="100" height="100" alt="R" src="https://github.com/user-attachments/assets/d0ad71c9-1877-4ab8-8658-feef505c6f3a" /><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5cdd19c4-c36a-44b1-a9d2-b408b4e62987" />
 
 - 🎨 UI/UX (Material Design, Animations)
 - 🧪 Testing (Unit, Widget, Integration)
