@@ -14,7 +14,7 @@ I'm a passionate mobile developer specializing in **Flutter**, building high-per
 
 ## 🛠️ Tech Stack
 
--  <img width="2000" height="2000" alt="R" src="https://github.com/user-attachments/assets/d0ad71c9-1877-4ab8-8658-feef505c6f3a" />
+-  <img width="100" height="100" alt="R" src="https://github.com/user-attachments/assets/d0ad71c9-1877-4ab8-8658-feef505c6f3a" />
 Flutter / Dart
 - 🔌 REST APIs / Firebase
 - 🎨 UI/UX (Material Design, Animations)
