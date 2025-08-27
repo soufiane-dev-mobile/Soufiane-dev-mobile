@@ -1,6 +1,6 @@
 
 ![fl](https://github.com/user-attachments/assets/77e82d10-0552-429a-8ead-ff262b629a9d)
-
+<body style="background-color:#e0f0ff;">
   <h1 align="left">👋 Hi there, I'm Soufiane Zqaqi</h1>
 
   <p align="left">🎯 Mobile App Developer | Flutter Enthusiast</p>
